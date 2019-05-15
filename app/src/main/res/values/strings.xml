@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Quiz_trivia</string>
+
+    <string name="ture_button">True</string>
+    <string name="false_button">False</string>
+    <string name="initial_value">Score 0/13</string>
+
+    <string name="correct_toast">You got it!!!</string>
+    <string name="incorrect_answer">Wrrong!!</string>
+
+
+    <string name="question_1">Valentine\'s day is banned in Saudi Arabia</string>
+    <string name="question_2">A Slug\'s blood is green</string>
+    <string name="question_3">Approximately one quarter human bones are in the feet</string>
+    <string name="question_4">The total surface area of two human lungs is approximately 70 square feet</string>
+</resources>
